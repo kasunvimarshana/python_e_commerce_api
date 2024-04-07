@@ -1,1 +1,11 @@
-"# python_e_commerce_api" 
+```
+python -m venv .venv
+```
+
+```
+.venv\Scripts\activate
+```
+
+```
+.venv\Scripts\deactivate
+```
